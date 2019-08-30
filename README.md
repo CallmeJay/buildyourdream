@@ -39,6 +39,7 @@ Learn at least one article a day.
 ## 大佬Blogs
 * [木易杨前端进阶](https://muyiy.cn/blog/) ✔️
 * [这波能反杀](https://segmentfault.com/u/meetbo) 
+* [SHERlocked93](https://github.com/SHERlocked93/blog)
 * [前端工匠](https://github.com/ljianshu/Blog)
 * [haizlin/fe-interview](https://github.com/haizlin/fe-interview/issues) 
 * [yck前端进阶之道](https://yuchengkai.cn/home/)
