@@ -48,14 +48,24 @@ Learn at least one article a day.
 * [Nealyang](https://github.com/Nealyang/PersonalBlog) 
 * [amandakelake](https://github.com/amandakelake/blog) 
 
+## JS基础
+* [通过实现25个数组方法来理解及高效使用数组方法](https://juejin.im/post/5d82c12ff265da03a31d6f92?utm_source=gold_browser_extension#heading-54)
+* [使用 Proxy 构建响应式系统](https://juejin.im/post/5d86eb52f265da03ee6a9449?utm_source=gold_browser_extension#comment)
+
 ## React
 * [React源码解读](https://react.jokcy.me/)
+* [React高频面试题梳理，看看面试怎么答？（上）](https://mp.weixin.qq.com/s/z9pwpAIEys2Aw0HHrjF_mw)
+* [你真的理解setState吗？](https://juejin.im/post/5b45c57c51882519790c7441#comment)
+
+## Babel
+* [前端工程师需要了解的 Babel 知识](https://mp.weixin.qq.com/s/AGkyolhSdCeU8wEnGpVqLA)
 
 ## HTML
 * [HTML5 Canvas半知半解](https://www.kancloud.cn/dennis/canvas/340109)
 
 ## CSS
 * [你未必知道的49个CSS知识点](https://juejin.im/post/5d3eca78e51d4561cb5dde12)
+* [灵活运用CSS开发技巧(66个实用技巧，值得收藏)](https://juejin.im/post/5d4d0ec651882549594e7293?utm_source=gold_browser_extension)
 
 ## Mac相关
 * [Mac OS之程序员](https://www.kancloud.cn/chandler/mac_os/480595) 
@@ -79,5 +89,6 @@ Learn at least one article a day.
 * [web开发者知识体系](https://www.kancloud.cn/martist/ma_zhao_liu/370443) 
 * [nginx 入门到进阶的教程](https://www.kancloud.cn/hfpp2012/nginx-tutorial/467009)
 
-## 其他
+## 规范
 * [程序员英语单词册](https://www.kancloud.cn/haixu926611/study-english/112096)
+* [非常全面的前端协作规范(长文建议先收藏)](https://mp.weixin.qq.com/s/hPJCXM5qIe6EJBIiYdrxAg)
